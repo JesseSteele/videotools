@@ -1,2 +1,2 @@
 # videotools
-Tools for making videos
+Tools for making vlogs
